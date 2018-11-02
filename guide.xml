@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CANAL RURAL">
     <display-name lang="pt">CANAL RURAL</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <icon src="http://www.lineup.tv.br/canais/fox.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
