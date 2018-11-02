@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CANAL RURAL">
-    <display-name lang="pt">CANAL RURAL</display-name>
-    <icon src="http://www.lineup.tv.br/canais/fox.gif" />
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <icon src="http://www.lineup.tv.br/canais/shoptime.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
