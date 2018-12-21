@@ -1,0 +1,404 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8M0TbSl.png" group-title="",A&E
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37130.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8M0TbSl.png" group-title="",A&E HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36929.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vp5kWVi.png" group-title="",AMC
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/41087.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vp5kWVi.png" group-title="",AMC HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36928.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yb6xZWS.png" group-title="",ANIMAL PLANET
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37128.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yb6xZWS.png" group-title="",ANIMAL PLANET HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36992.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qMYojaD.png" group-title="",ARTE 1
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37133.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hdaR5Nj.png" group-title="",AXN
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37132.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hdaR5Nj.png" group-title="",AXN HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36991.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WW3nC7l.png" group-title="",BABYTV
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36993.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ey5GpCz.png" group-title="",BAND
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37127.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ey5GpCz.png" group-title="",BAND HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36990.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1UHNgEJ.png" group-title="",BANDNEWS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37126.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5cc6byi.png" group-title="",BANDSPORTS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37125.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5cc6byi.png" group-title="",BANDSPORTS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36989.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GUejbOw.png" group-title="",BIS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37131.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GUejbOw.png" group-title="",BIS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36988.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W5YMhg6.png" group-title="",BOOMERANG
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37123.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LZwJEVF.png" group-title="",CANAL BRASIL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37122.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/h66iwCd.png" group-title="",CANAL RURAL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/40224.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iW14OLe.png" group-title="",CANCAO NOVA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37023.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BRWnFrs.png" group-title="",CARTOON NETWORK
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37121.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BRWnFrs.png" group-title="",CARTOON NETWORK HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36927.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f3WNTVz.png" group-title="",CINEMAX
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37120.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f3WNTVz.png" group-title="",CINEMAX HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36926.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Aa8Vc6d.png" group-title="",COMBATE
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37119.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Aa8Vc6d.png" group-title="",COMBATE HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36986.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1ARRGpx.png" group-title="",COMEDY CENTRAL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37118.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1ARRGpx.png" group-title="",COMEDY CENTRAL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36925.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0Xm56R.png" group-title="",TV CULTURA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/40073.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/veunjbh.png" group-title="",CURTA!
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37117.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iAfjm1S.png" group-title="",DISCOVERY CHANNEL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37116.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iAfjm1S.png" group-title="",DISCOVERY CHANNEL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36985.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DJYMX4Q.png" group-title="",DISCOVERY CIVILIZATION HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36924.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JsdMbiG.png" group-title="",DISCOVERY HOME&HEALTH
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37115.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JsdMbiG.png" group-title="",DISCOVERY HOME&HEALTH HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36984.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDmk9bU.png" group-title="",DISCOVERY KIDS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37113.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDmk9bU.png" group-title="",DISCOVERY KIDS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36923.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDzKvvT.png" group-title="",DISCOVERY SCIENCE HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36922.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WiFrSl0.png" group-title="",DISCOVERY THEATER HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36983.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZAaEUq.png" group-title="",DISCOVERY TURBO
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37112.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZAaEUq.png" group-title="",DISCOVERY TURBO HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36982.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2zuRrg.png" group-title="",DISCOVERY WORLD HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36981.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EQdrYKW.png" group-title="",DISNEY CHANNEL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37111.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EQdrYKW.png" group-title="",DISNEY CHANNEL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36921.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4kRXdX.png" group-title="",DISNEY JUNIOR
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37110.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iq5kB17.png" group-title="",DISNEY XD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37109.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxz7tGe.png" group-title="",E!
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37108.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxz7tGe.png" group-title="",E! HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36920.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwKyLdb.png" group-title="",ESPN
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37105.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwKyLdb.png" group-title="",ESPN HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36977.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nL6eDyb.png" group-title="",ESPN BRASIL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37104.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nL6eDyb.png" group-title="",ESPN BRASIL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36978.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyme6LS.png" group-title="",ESPN 2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36976.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx7Vh.png" group-title="",FISHTV
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37103.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IL080un.png" group-title="",FOOD NETWORK
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37102.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IL080un.png" group-title="",FOOD NETWORK HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36919.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBMwztj.png" group-title="",FOX
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37101.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBMwztj.png" group-title="",FOX HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36972.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwICiy7.png" group-title="",FOX LIFE
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37100.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwICiy7.png" group-title="",FOX LIFE HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36918.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwxyVph.png" group-title="",FOX PREMIUM 1
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37335.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwxyVph.png" group-title="",FOX PREMIUM 1 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36974.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByO41Iv.png" group-title="",FOX PREMIUM 2
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37336.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByO41Iv.png" group-title="",FOX PREMIUM 2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36973.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHUYba7.png" group-title="",FOX SPORTS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37099.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHUYba7.png" group-title="",FOX SPORTS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36970.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXKtJos.png" group-title="",FOX SPORTS 2
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37098.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXKtJos.png" group-title="",FOX SPORTS 2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36971.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdSei7j.png" group-title="",FUTURA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/40074.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxxgsft.png" group-title="",FX
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37097.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxxgsft.png" group-title="",FX HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36969.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXKLCrb.png" group-title="",TV GAZETA HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/40120.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5J4SDo2.png" group-title="",GLOBONEWS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37093.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5J4SDo2.png" group-title="",GLOBONEWS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36917.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFjyWha.png" group-title="",GLOBO RJ
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37091.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFjyWha.png" group-title="",GLOBO RJ HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36968.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1MMpWn.png" group-title="",MAIS GLOBOSAT
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37134.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1MMpWn.png" group-title="",MAIS GLOBOSAT HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36916.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFjyWha.png" group-title="",GLOBO SP
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37090.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFjyWha.png" group-title="",GLOBO SP HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37361.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbRBTiD.png" group-title="",GLOOB
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37089.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbRBTiD.png" group-title="",GLOOB HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36915.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVQult4.png" group-title="",GLOOBINHO HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/38969.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTjJ9DM.png" group-title="",GNT
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37088.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTjJ9DM.png" group-title="",GNT HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36967.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYepWqF.png" group-title="",HBO
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37087.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYepWqF.png" group-title="",HBO HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36964.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDAmnGE.png" group-title="",HBO 2
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37086.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDAmnGE.png" group-title="",HBO 2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36966.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lniXFiE.png" group-title="",HBO FAMILY
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37085.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lniXFiE.png" group-title="",HBO FAMILY HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36965.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuURxMs.png" group-title="",HBO PLUS BRASIL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37084.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuURxMs.png" group-title="",HBO PLUS BRASIL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36963.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YfFd6CW.png" group-title="",HBO PLUS PANREGIONAL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37083.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40B64kp.png" group-title="",HBO SIGNATURE
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37082.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40B64kp.png" group-title="",HBO SIGNATURE HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36962.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rkOC1G.png" group-title="",HISTORY
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37081.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rkOC1G.png" group-title="",HISTORY HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36960.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZlkALY.png" group-title="",H2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36961.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tzHz8Rz.png" group-title="",ID
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37114.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tzHz8Rz.png" group-title="",ID HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36959.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzCCMsZ.png" group-title="",LIFETIME
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37077.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzCCMsZ.png" group-title="",LIFETIME HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36914.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tRnCHD.png" group-title="",MAX
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37076.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tRnCHD.png" group-title="",MAX HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36913.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Vzh6ki.png" group-title="",MAX PRIME
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37075.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Vzh6ki.png" group-title="",MAX PRIME HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36912.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Imx18dp.png" group-title="",MAX PRIME PANREGIONAL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37074.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/082bhFV.png" group-title="",MAX UP
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37073.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/082bhFV.png" group-title="",MAX UP HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36911.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r92Koj.png" group-title="",MEGAPIX
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37072.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r92Koj.png" group-title="",MEGAPIX HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36958.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV1r44s.png" group-title="",MTV
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37071.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV1r44s.png" group-title="",MTV HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36910.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pafd064.png" group-title="",MULTISHOW
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37070.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pafd064.png" group-title="",MULTISHOW HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36957.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7SNSGJ5.png" group-title="",NAT GEO
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37068.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7SNSGJ5.png" group-title="",NAT GEO HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36956.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MXAY2aS.png" group-title="",NAT GEO KIDS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37067.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MXAY2aS.png" group-title="",NAT GEO KIDS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36909.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pi9r3zq.png" group-title="",NAT GEO WILD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37066.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pi9r3zq.png" group-title="",NAT GEO WILD HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36955.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r06ZPDK.png" group-title="",NICK JR.
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37065.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r06ZPDK.png" group-title="",NICK JR. HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36908.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVtefHk.png" group-title="",NICK
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37064.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVtefHk.png" group-title="",NICK HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36907.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9A9grf.png" group-title="",CANAL OFF
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37063.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9A9grf.png" group-title="",CANAL OFF HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36954.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixTiJdx.png" group-title="",PARAMOUNT CHANNEL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37062.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixTiJdx.png" group-title="",PARAMOUNT CHANNEL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36953.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 2
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37060.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36952.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 3
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37059.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 3 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36951.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 4
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37058.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 4 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36950.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 5
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37057.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 5 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36949.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 6
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37056.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 6 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36906.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 7
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37017.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 7 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36905.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE 9
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/41305.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE CLUBES
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37016.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOGxSw3.png" group-title="",PREMIERE CLUBES HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36948.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Uq5XPn.png" group-title="",PRIME BOX BRAZIL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37053.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0nnHz9.png" group-title="",RECORD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37051.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0nnHz9.png" group-title="",RECORD HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36947.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXrkhxj.png" group-title="",RECORD NEWS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37050.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6MUwrE.png" group-title="",REDETV!
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37012.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6MUwrE.png" group-title="",REDETV! HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36946.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPxS9qF.png" group-title="",SBT
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37048.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPxS9qF.png" group-title="",SBT HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36945.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFLbLmu.png" group-title="",CANAL SONY
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37007.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFLbLmu.png" group-title="",CANAL SONY HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36987.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFLn7om.png" group-title="",SPACE
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37046.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFLn7om.png" group-title="",SPACE HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36944.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GIa6Rd.png" group-title="",SPORTV
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37256.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GIa6Rd.png" group-title="",SPORTV HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37255.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLJuIy4.png" group-title="",SPORTV 2
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37044.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLJuIy4.png" group-title="",SPORTV 2 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36943.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfMgHF2.png" group-title="",SPORTV 3
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37006.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfMgHF2.png" group-title="",SPORTV 3 HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36942.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ytdkk24.png" group-title="",STUDIO UNIVERSAL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37043.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ytdkk24.png" group-title="",STUDIO UNIVERSAL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36904.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXh4DFe.png" group-title="",SYFY
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37042.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXh4DFe.png" group-title="",SYFY HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36903.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GYC3GkR.png" group-title="",TBS
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37041.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GYC3GkR.png" group-title="",TBS HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36940.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgeHH9O.png" group-title="",TCM
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37037.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j21dVMc.png" group-title="",TELECINE ACTION
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37040.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j21dVMc.png" group-title="",TELECINE ACTION HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36939.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14nYmaD.png" group-title="",TELECINE CULT
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37039.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14nYmaD.png" group-title="",TELECINE CULT HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36901.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPniEk8.png" group-title="",TELECINE FUN
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37005.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPniEk8.png" group-title="",TELECINE FUN HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36938.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeITtFd.png" group-title="",TELECINE PIPOCA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37038.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeITtFd.png" group-title="",TELECINE PIPOCA HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36937.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFgCsu6.png" group-title="",TELECINE PREMIUM
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36994.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFgCsu6.png" group-title="",TELECINE PREMIUM HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36936.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVd4fyZ.png" group-title="",TELECINE TOUCH
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36995.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVd4fyZ.png" group-title="",TELECINE TOUCH HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36935.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJMEsfO.png" group-title="",TLC
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37036.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJMEsfO.png" group-title="",TLC HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36902.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMEisRo.png" group-title="",TNT
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37035.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMEisRo.png" group-title="",TNT HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36934.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTatYv0.png" group-title="",TNT SERIES
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37034.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTatYv0.png" group-title="",TNT SERIES HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36933.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SkOlFFW.png" group-title="",TOONCAST
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37033.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejpRuc3.png" group-title="",TRUTV
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37032.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KEXt51G.png" group-title="",TV APARECIDA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37003.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMHCxon.png" group-title="",TV ESCOLA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36999.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiP6AGB.png" group-title="",UNIVERSAL
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37027.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiP6AGB.png" group-title="",UNIVERSAL HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36932.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtHCCdc.png" group-title="",VIVA
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36997.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtHCCdc.png" group-title="",VIVA HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36931.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5p0ePAH.png" group-title="",WARNER
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36996.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5p0ePAH.png" group-title="",WARNER HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36930.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIy4BUS.png" group-title="",WOOHOO
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/37025.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIy4BUS.png" group-title="",WOOHOO HD
+http://tv.factoryiptv.com:80/live/nathan123/nathan123/36899.ts
